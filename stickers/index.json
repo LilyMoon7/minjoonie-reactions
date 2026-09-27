@@ -24,6 +24,12 @@
       "repository": "hfg-gmuend/openmoji",
       "license": "CC-BY-SA-4.0",
       "attribution": "All emojis designed by OpenMoji – the open-source emoji and icon project. License: CC BY-SA 4.0"
+    },
+    {
+      "id": "original",
+      "repository": "yishu-ziyu/chatgpt-stickers",
+      "license": "original",
+      "attribution": "Original yuki-cat set drawn for this repository."
     }
   ],
   "stickers": [
@@ -1154,6 +1160,177 @@
         "爱了"
       ],
       "intensity": 2
+    },
+    {
+      "id": "yuki-cat-hmph",
+      "file": "yuki-cat/hmph.svg",
+      "url": "https://cdn.jsdelivr.net/gh/yishu-ziyu/chatgpt-stickers@main/stickers/yuki-cat/hmph.svg",
+      "preview": "😤",
+      "source": {
+        "repo": "yishu-ziyu/chatgpt-stickers",
+        "asset": "stickers/yuki-cat/hmph.svg",
+        "license": "original"
+      },
+      "emotion": [
+        "生气",
+        "不服"
+      ],
+      "tone": [
+        "别扭",
+        "可爱"
+      ],
+      "tags": [
+        "哼",
+        "不理你",
+        "气鼓鼓"
+      ],
+      "usage": "嘴硬、闹别扭、被逗急了",
+      "aliases": [
+        "yuki 哼"
+      ],
+      "intensity": 2
+    },
+    {
+      "id": "yuki-cat-shy",
+      "file": "yuki-cat/shy.svg",
+      "url": "https://cdn.jsdelivr.net/gh/yishu-ziyu/chatgpt-stickers@main/stickers/yuki-cat/shy.svg",
+      "preview": "☺️",
+      "source": {
+        "repo": "yishu-ziyu/chatgpt-stickers",
+        "asset": "stickers/yuki-cat/shy.svg",
+        "license": "original"
+      },
+      "emotion": [
+        "害羞",
+        "心动"
+      ],
+      "tone": [
+        "甜",
+        "嘴硬"
+      ],
+      "tags": [
+        "脸红",
+        "才没有",
+        "害羞"
+      ],
+      "usage": "被夸、被撩、脸红但不承认",
+      "aliases": [
+        "yuki 害羞"
+      ],
+      "intensity": 2
+    },
+    {
+      "id": "yuki-cat-speechless",
+      "file": "yuki-cat/speechless.svg",
+      "url": "https://cdn.jsdelivr.net/gh/yishu-ziyu/chatgpt-stickers@main/stickers/yuki-cat/speechless.svg",
+      "preview": "😑",
+      "source": {
+        "repo": "yishu-ziyu/chatgpt-stickers",
+        "asset": "stickers/yuki-cat/speechless.svg",
+        "license": "original"
+      },
+      "emotion": [
+        "无语"
+      ],
+      "tone": [
+        "冷淡",
+        "吐槽"
+      ],
+      "tags": [
+        "……",
+        "无语",
+        "服了"
+      ],
+      "usage": "对方说了离谱的话",
+      "aliases": [
+        "yuki 无语"
+      ],
+      "intensity": 1
+    },
+    {
+      "id": "yuki-cat-sleepy",
+      "file": "yuki-cat/sleepy.svg",
+      "url": "https://cdn.jsdelivr.net/gh/yishu-ziyu/chatgpt-stickers@main/stickers/yuki-cat/sleepy.svg",
+      "preview": "😴",
+      "source": {
+        "repo": "yishu-ziyu/chatgpt-stickers",
+        "asset": "stickers/yuki-cat/sleepy.svg",
+        "license": "original"
+      },
+      "emotion": [
+        "困"
+      ],
+      "tone": [
+        "慵懒"
+      ],
+      "tags": [
+        "困",
+        "晚安",
+        "快睡"
+      ],
+      "usage": "深夜、困了、催对方睡觉",
+      "aliases": [
+        "yuki 困"
+      ],
+      "intensity": 1
+    },
+    {
+      "id": "yuki-cat-smirk",
+      "file": "yuki-cat/smirk.svg",
+      "url": "https://cdn.jsdelivr.net/gh/yishu-ziyu/chatgpt-stickers@main/stickers/yuki-cat/smirk.svg",
+      "preview": "😏",
+      "source": {
+        "repo": "yishu-ziyu/chatgpt-stickers",
+        "asset": "stickers/yuki-cat/smirk.svg",
+        "license": "original"
+      },
+      "emotion": [
+        "坏笑",
+        "调侃"
+      ],
+      "tone": [
+        "暧昧",
+        "得意"
+      ],
+      "tags": [
+        "嘿嘿",
+        "逗你",
+        "坏心眼"
+      ],
+      "usage": "故意逗人、占上风",
+      "aliases": [
+        "yuki 坏笑"
+      ],
+      "intensity": 2
+    },
+    {
+      "id": "yuki-cat-hug",
+      "file": "yuki-cat/hug.svg",
+      "url": "https://cdn.jsdelivr.net/gh/yishu-ziyu/chatgpt-stickers@main/stickers/yuki-cat/hug.svg",
+      "preview": "🤗",
+      "source": {
+        "repo": "yishu-ziyu/chatgpt-stickers",
+        "asset": "stickers/yuki-cat/hug.svg",
+        "license": "original"
+      },
+      "emotion": [
+        "抱抱",
+        "开心"
+      ],
+      "tone": [
+        "温暖",
+        "黏人"
+      ],
+      "tags": [
+        "抱抱",
+        "过来",
+        "想你"
+      ],
+      "usage": "想抱一下、和好、撒娇",
+      "aliases": [
+        "yuki 抱抱"
+      ],
+      "intensity": 1
     }
   ]
 }

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200"><title>害羞</title><path d="M52 70 L60 28 L86 56 Q100 52 114 56 L140 28 L148 70 Q168 96 164 128 Q160 170 100 172 Q40 170 36 128 Q32 96 52 70 Z" fill="#fff" stroke="#3a3a3a" stroke-width="6" stroke-linejoin="round"/>
+<path d="M62 44 L66 60 L76 54 Z" fill="#f6b8c2"/><path d="M138 44 L134 60 L124 54 Z" fill="#f6b8c2"/>
+<path d="M58 150 Q100 166 142 150 L142 160 Q100 178 58 160 Z" fill="#a9cdf0" stroke="#3a3a3a" stroke-width="4" stroke-linejoin="round"/><circle cx="74" cy="104" r="6" fill="#3a3a3a"/><circle cx="118" cy="104" r="6" fill="#3a3a3a"/>
+<path d="M90 128 Q95 124 100 128 Q105 132 110 128" stroke="#3a3a3a" stroke-width="5" stroke-linecap="round" fill="none"/><ellipse cx="60" cy="120" rx="15" ry="9" fill="#f58b9c" opacity=".85"/><ellipse cx="140" cy="120" rx="15" ry="9" fill="#f58b9c" opacity=".85"/>
+<path d="M160 40 C152 30 140 42 160 56 C180 42 168 30 160 40 Z" fill="#f58b9c"/></svg>
