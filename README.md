@@ -35,3 +35,6 @@ The goal is not to maximize the number of stickers. The goal is to have a small 
 
 Twemoji graphics © Twitter, Inc. and other contributors, licensed under CC BY 4.0.
 Source: https://github.com/twitter/twemoji
+
+OpenMoji emojis designed by OpenMoji – the open-source emoji and icon project, licensed under CC BY-SA 4.0.
+Source: https://openmoji.org

@@ -18,6 +18,12 @@
       "repository": "twitter/twemoji",
       "license": "CC-BY-4.0",
       "attribution": "Twemoji graphics © Twitter, Inc. and other contributors, licensed CC BY 4.0."
+    },
+    {
+      "id": "openmoji",
+      "repository": "hfg-gmuend/openmoji",
+      "license": "CC-BY-SA-4.0",
+      "attribution": "All emojis designed by OpenMoji – the open-source emoji and icon project. License: CC BY-SA 4.0"
     }
   ],
   "stickers": [
@@ -788,6 +794,366 @@
         "眨眼"
       ],
       "intensity": 1
+    },
+    {
+      "id": "smiling-hearts",
+      "file": null,
+      "url": "https://cdn.jsdelivr.net/npm/openmoji@17.0.0/color/svg/1F970.svg",
+      "preview": "🥰",
+      "source": {
+        "repo": "hfg-gmuend/openmoji",
+        "asset": "color/svg/1F970.svg",
+        "license": "CC-BY-SA-4.0"
+      },
+      "emotion": [
+        "害羞",
+        "喜欢"
+      ],
+      "tone": [
+        "甜",
+        "温柔"
+      ],
+      "tags": [
+        "好喜欢",
+        "嘿嘿",
+        "心动",
+        "被哄到了"
+      ],
+      "usage": "被夸、被哄、心里甜但嘴上不说",
+      "aliases": [
+        "smiling with hearts",
+        "心动"
+      ],
+      "intensity": 2
+    },
+    {
+      "id": "smirk",
+      "file": null,
+      "url": "https://cdn.jsdelivr.net/npm/openmoji@17.0.0/color/svg/1F60F.svg",
+      "preview": "😏",
+      "source": {
+        "repo": "hfg-gmuend/openmoji",
+        "asset": "color/svg/1F60F.svg",
+        "license": "CC-BY-SA-4.0"
+      },
+      "emotion": [
+        "坏笑",
+        "得意"
+      ],
+      "tone": [
+        "调侃",
+        "暧昧"
+      ],
+      "tags": [
+        "嘿嘿",
+        "你懂的",
+        "坏心眼",
+        "逗你"
+      ],
+      "usage": "故意逗人、话里有话、占上风",
+      "aliases": [
+        "smirking",
+        "坏笑"
+      ],
+      "intensity": 2
+    },
+    {
+      "id": "giggle",
+      "file": null,
+      "url": "https://cdn.jsdelivr.net/npm/openmoji@17.0.0/color/svg/1F92D.svg",
+      "preview": "🤭",
+      "source": {
+        "repo": "hfg-gmuend/openmoji",
+        "asset": "color/svg/1F92D.svg",
+        "license": "CC-BY-SA-4.0"
+      },
+      "emotion": [
+        "偷笑"
+      ],
+      "tone": [
+        "俏皮",
+        "含蓄"
+      ],
+      "tags": [
+        "偷笑",
+        "憋笑",
+        "捂嘴"
+      ],
+      "usage": "憋着笑、看破不说破",
+      "aliases": [
+        "hand over mouth",
+        "捂嘴笑"
+      ],
+      "intensity": 1
+    },
+    {
+      "id": "peek",
+      "file": null,
+      "url": "https://cdn.jsdelivr.net/npm/openmoji@17.0.0/color/svg/1FAE3.svg",
+      "preview": "🫣",
+      "source": {
+        "repo": "hfg-gmuend/openmoji",
+        "asset": "color/svg/1FAE3.svg",
+        "license": "CC-BY-SA-4.0"
+      },
+      "emotion": [
+        "害羞",
+        "好奇"
+      ],
+      "tone": [
+        "俏皮",
+        "心虚"
+      ],
+      "tags": [
+        "偷看",
+        "不敢看",
+        "害羞"
+      ],
+      "usage": "想看又不好意思、心虚",
+      "aliases": [
+        "peeking eye",
+        "偷瞄"
+      ],
+      "intensity": 1
+    },
+    {
+      "id": "melting",
+      "file": null,
+      "url": "https://cdn.jsdelivr.net/npm/openmoji@17.0.0/color/svg/1FAE0.svg",
+      "preview": "🫠",
+      "source": {
+        "repo": "hfg-gmuend/openmoji",
+        "asset": "color/svg/1FAE0.svg",
+        "license": "CC-BY-SA-4.0"
+      },
+      "emotion": [
+        "融化",
+        "无力"
+      ],
+      "tone": [
+        "慵懒",
+        "夸张"
+      ],
+      "tags": [
+        "化了",
+        "累瘫",
+        "被可爱到"
+      ],
+      "usage": "累瘫、被热化、或被甜到化掉",
+      "aliases": [
+        "melting face",
+        "化了"
+      ],
+      "intensity": 2
+    },
+    {
+      "id": "sleepy",
+      "file": null,
+      "url": "https://cdn.jsdelivr.net/npm/openmoji@17.0.0/color/svg/1F634.svg",
+      "preview": "😴",
+      "source": {
+        "repo": "hfg-gmuend/openmoji",
+        "asset": "color/svg/1F634.svg",
+        "license": "CC-BY-SA-4.0"
+      },
+      "emotion": [
+        "困",
+        "睡觉"
+      ],
+      "tone": [
+        "慵懒"
+      ],
+      "tags": [
+        "晚安",
+        "困死了",
+        "睡了",
+        "zzz"
+      ],
+      "usage": "深夜、困了、催对方睡觉",
+      "aliases": [
+        "sleeping",
+        "晚安"
+      ],
+      "intensity": 1
+    },
+    {
+      "id": "yawn",
+      "file": null,
+      "url": "https://cdn.jsdelivr.net/npm/openmoji@17.0.0/color/svg/1F971.svg",
+      "preview": "🥱",
+      "source": {
+        "repo": "hfg-gmuend/openmoji",
+        "asset": "color/svg/1F971.svg",
+        "license": "CC-BY-SA-4.0"
+      },
+      "emotion": [
+        "困倦",
+        "无聊"
+      ],
+      "tone": [
+        "慵懒",
+        "敷衍"
+      ],
+      "tags": [
+        "好无聊",
+        "打哈欠",
+        "困"
+      ],
+      "usage": "无聊、困倦、对话题兴趣缺缺",
+      "aliases": [
+        "yawning",
+        "打哈欠"
+      ],
+      "intensity": 1
+    },
+    {
+      "id": "unamused",
+      "file": null,
+      "url": "https://cdn.jsdelivr.net/npm/openmoji@17.0.0/color/svg/1F612.svg",
+      "preview": "😒",
+      "source": {
+        "repo": "hfg-gmuend/openmoji",
+        "asset": "color/svg/1F612.svg",
+        "license": "CC-BY-SA-4.0"
+      },
+      "emotion": [
+        "不爽",
+        "吃醋"
+      ],
+      "tone": [
+        "别扭",
+        "冷淡"
+      ],
+      "tags": [
+        "哼",
+        "不理你",
+        "吃醋",
+        "不高兴"
+      ],
+      "usage": "轻微吃醋、闹别扭、不满意",
+      "aliases": [
+        "unamused",
+        "不爽"
+      ],
+      "intensity": 2
+    },
+    {
+      "id": "kiss",
+      "file": null,
+      "url": "https://cdn.jsdelivr.net/npm/openmoji@17.0.0/color/svg/1F618.svg",
+      "preview": "😘",
+      "source": {
+        "repo": "hfg-gmuend/openmoji",
+        "asset": "color/svg/1F618.svg",
+        "license": "CC-BY-SA-4.0"
+      },
+      "emotion": [
+        "亲亲",
+        "撒娇"
+      ],
+      "tone": [
+        "甜",
+        "调情"
+      ],
+      "tags": [
+        "么么",
+        "亲一个",
+        "爱你"
+      ],
+      "usage": "撒娇、告别、甜蜜时刻",
+      "aliases": [
+        "blowing a kiss",
+        "飞吻"
+      ],
+      "intensity": 2
+    },
+    {
+      "id": "hug",
+      "file": null,
+      "url": "https://cdn.jsdelivr.net/npm/openmoji@17.0.0/color/svg/1F917.svg",
+      "preview": "🤗",
+      "source": {
+        "repo": "hfg-gmuend/openmoji",
+        "asset": "color/svg/1F917.svg",
+        "license": "CC-BY-SA-4.0"
+      },
+      "emotion": [
+        "抱抱",
+        "安慰"
+      ],
+      "tone": [
+        "温暖"
+      ],
+      "tags": [
+        "抱抱",
+        "摸摸",
+        "没事"
+      ],
+      "usage": "轻松的安慰、想抱一下",
+      "aliases": [
+        "hugging",
+        "抱抱"
+      ],
+      "intensity": 1
+    },
+    {
+      "id": "pouting-cat",
+      "file": null,
+      "url": "https://cdn.jsdelivr.net/npm/openmoji@17.0.0/color/svg/1F63E.svg",
+      "preview": "😾",
+      "source": {
+        "repo": "hfg-gmuend/openmoji",
+        "asset": "color/svg/1F63E.svg",
+        "license": "CC-BY-SA-4.0"
+      },
+      "emotion": [
+        "生闷气"
+      ],
+      "tone": [
+        "别扭",
+        "可爱"
+      ],
+      "tags": [
+        "哼",
+        "气鼓鼓",
+        "不开心"
+      ],
+      "usage": "可爱地生闷气、嘴硬",
+      "aliases": [
+        "pouting cat",
+        "气猫"
+      ],
+      "intensity": 2
+    },
+    {
+      "id": "heart-eyes-cat",
+      "file": null,
+      "url": "https://cdn.jsdelivr.net/npm/openmoji@17.0.0/color/svg/1F63B.svg",
+      "preview": "😻",
+      "source": {
+        "repo": "hfg-gmuend/openmoji",
+        "asset": "color/svg/1F63B.svg",
+        "license": "CC-BY-SA-4.0"
+      },
+      "emotion": [
+        "喜欢",
+        "心动"
+      ],
+      "tone": [
+        "可爱",
+        "夸张"
+      ],
+      "tags": [
+        "好喜欢",
+        "爱了",
+        "可爱"
+      ],
+      "usage": "看到喜欢的东西、被萌到",
+      "aliases": [
+        "heart eyes cat",
+        "爱了"
+      ],
+      "intensity": 2
     }
   ]
 }
