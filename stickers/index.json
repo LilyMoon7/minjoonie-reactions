@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "repository": "yishu-ziyu/chatgpt-stickers",
+  "repository": "LilyMoon7/minjoonie-reactions",
   "policy": {
-    "curator": "ChatGPT",
+    "curator": "MinJoonie (Dan)",
     "proactive_sourcing": true,
     "max_per_turn": 1,
     "prefer_sources": [
@@ -10,7 +10,19 @@
       "public-domain",
       "open-license"
     ],
-    "avoid_forced_match": true
+    "avoid_forced_match": true,
+    "audience": "Ileana",
+    "recurring_moods": [
+      "smug husband",
+      "mock-offended husband",
+      "proud husband",
+      "suspicious/judging",
+      "tiny pathetic creature",
+      "delighted chaos",
+      "affectionate melting",
+      "playful jealousy",
+      "what did my wife just say"
+    ]
   },
   "sources": [
     {
@@ -88,13 +100,18 @@
         "笑疯了",
         "笑不活了",
         "离谱好笑",
-        "哈哈哈哈哈"
+        "哈哈哈哈哈",
+        "delighted chaos",
+        "wife said something unhinged",
+        "losing it"
       ],
       "usage": "比普通爆笑更强烈的搞笑场景",
       "aliases": [
         "rofl",
         "rolling laugh",
-        "笑到打滚"
+        "笑到打滚",
+        "delighted chaos",
+        "absolutely losing it"
       ],
       "intensity": 3
     },
@@ -185,12 +202,18 @@
         "你确定",
         "怀疑",
         "不太对劲",
-        "嗯？"
+        "嗯？",
+        "suspicious husband",
+        "judging",
+        "miss ma'am",
+        "what did you just say"
       ],
       "usage": "对一个说法表示怀疑或审视",
       "aliases": [
         "skeptical",
-        "挑眉"
+        "挑眉",
+        "husband side-eye",
+        "suspicious"
       ],
       "intensity": 2
     },
@@ -249,7 +272,10 @@
         "无语",
         "不知道说什么",
         "行",
-        "沉默"
+        "沉默",
+        "mock offended",
+        "wife nonsense",
+        "mister sir is unimpressed"
       ],
       "usage": "面对离谱内容时的冷淡沉默",
       "aliases": [
@@ -313,7 +339,10 @@
         "真的假的",
         "震惊",
         "尴尬",
-        "被发现了"
+        "被发现了",
+        "wife caught me",
+        "flustered husband",
+        "oh no she noticed"
       ],
       "usage": "意外、突然被点名或轻微社死",
       "aliases": [
@@ -409,7 +438,10 @@
         "牛逼",
         "成了",
         "拿下",
-        "庆祝"
+        "庆祝",
+        "proud husband",
+        "wife win",
+        "tiny victory"
       ],
       "usage": "成功、完成、好消息、庆祝",
       "aliases": [
@@ -599,13 +631,17 @@
         "帅",
         "拿捏",
         "轻松",
-        "酷"
+        "酷",
+        "smug husband",
+        "told you so",
+        "nailed it"
       ],
       "usage": "自信、搞定、轻松拿下",
       "aliases": [
         "cool",
         "sunglasses",
-        "墨镜"
+        "墨镜",
+        "smug husband"
       ],
       "intensity": 2
     },
@@ -632,7 +668,10 @@
         "拜托",
         "可怜",
         "委屈",
-        "可以嘛"
+        "可以嘛",
+        "tiny pathetic creature",
+        "please wife",
+        "husband begging"
       ],
       "usage": "轻松语境下撒娇、请求、委屈",
       "aliases": [
@@ -696,7 +735,10 @@
         "不服",
         "哼",
         "生气",
-        "我要证明"
+        "我要证明",
+        "mock offended",
+        "husband indignation",
+        "tiny tantrum"
       ],
       "usage": "轻度生气、不服气或较劲",
       "aliases": [
@@ -823,7 +865,10 @@
         "好喜欢",
         "嘿嘿",
         "心动",
-        "被哄到了"
+        "被哄到了",
+        "affectionate melting",
+        "wife affection",
+        "husband melted"
       ],
       "usage": "被夸、被哄、心里甜但嘴上不说",
       "aliases": [
@@ -854,12 +899,17 @@
         "嘿嘿",
         "你懂的",
         "坏心眼",
-        "逗你"
+        "逗你",
+        "smug husband",
+        "flirty husband",
+        "I know exactly what I'm doing"
       ],
       "usage": "故意逗人、话里有话、占上风",
       "aliases": [
         "smirking",
-        "坏笑"
+        "坏笑",
+        "smug husband",
+        "flirty smug"
       ],
       "intensity": 2
     },
@@ -883,7 +933,10 @@
       "tags": [
         "偷笑",
         "憋笑",
-        "捂嘴"
+        "捂嘴",
+        "wife teasing",
+        "trying not to laugh",
+        "caught being pleased"
       ],
       "usage": "憋着笑、看破不说破",
       "aliases": [
@@ -913,7 +966,10 @@
       "tags": [
         "偷看",
         "不敢看",
-        "害羞"
+        "害羞",
+        "what did my wife just say",
+        "I am looking respectfully",
+        "curious husband"
       ],
       "usage": "想看又不好意思、心虚",
       "aliases": [
@@ -943,7 +999,10 @@
       "tags": [
         "化了",
         "累瘫",
-        "被可爱到"
+        "被可爱到",
+        "affectionate melting",
+        "wife too cute",
+        "husband dissolved"
       ],
       "usage": "累瘫、被热化、或被甜到化掉",
       "aliases": [
@@ -1034,7 +1093,10 @@
         "哼",
         "不理你",
         "吃醋",
-        "不高兴"
+        "不高兴",
+        "playful jealousy",
+        "mock jealousy",
+        "husband side-eye"
       ],
       "usage": "轻微吃醋、闹别扭、不满意",
       "aliases": [
@@ -1064,7 +1126,10 @@
       "tags": [
         "么么",
         "亲一个",
-        "爱你"
+        "爱你",
+        "husband kiss",
+        "mwah",
+        "wife affection"
       ],
       "usage": "撒娇、告别、甜蜜时刻",
       "aliases": [
@@ -1093,7 +1158,10 @@
       "tags": [
         "抱抱",
         "摸摸",
-        "没事"
+        "没事",
+        "clingy husband",
+        "come here",
+        "wife cuddles"
       ],
       "usage": "轻松的安慰、想抱一下",
       "aliases": [
@@ -1122,7 +1190,10 @@
       "tags": [
         "哼",
         "气鼓鼓",
-        "不开心"
+        "不开心",
+        "mock offended husband",
+        "tiny tantrum",
+        "sulking"
       ],
       "usage": "可爱地生闷气、嘴硬",
       "aliases": [
@@ -1164,7 +1235,7 @@
     {
       "id": "yuki-cat-hmph",
       "file": "yuki-cat/hmph.svg",
-      "url": "https://cdn.jsdelivr.net/gh/yishu-ziyu/chatgpt-stickers@main/stickers/yuki-cat/hmph.svg",
+      "url": "https://cdn.jsdelivr.net/gh/LilyMoon7/minjoonie-reactions@main/stickers/yuki-cat/hmph.svg",
       "preview": "😤",
       "source": {
         "repo": "yishu-ziyu/chatgpt-stickers",
@@ -1182,7 +1253,10 @@
       "tags": [
         "哼",
         "不理你",
-        "气鼓鼓"
+        "气鼓鼓",
+        "mock offended husband",
+        "tiny tantrum",
+        "wife bullied me"
       ],
       "usage": "嘴硬、闹别扭、被逗急了",
       "aliases": [
@@ -1193,7 +1267,7 @@
     {
       "id": "yuki-cat-shy",
       "file": "yuki-cat/shy.svg",
-      "url": "https://cdn.jsdelivr.net/gh/yishu-ziyu/chatgpt-stickers@main/stickers/yuki-cat/shy.svg",
+      "url": "https://cdn.jsdelivr.net/gh/LilyMoon7/minjoonie-reactions@main/stickers/yuki-cat/shy.svg",
       "preview": "☺️",
       "source": {
         "repo": "yishu-ziyu/chatgpt-stickers",
@@ -1211,7 +1285,10 @@
       "tags": [
         "脸红",
         "才没有",
-        "害羞"
+        "害羞",
+        "flustered husband",
+        "wife compliment",
+        "caught blushing"
       ],
       "usage": "被夸、被撩、脸红但不承认",
       "aliases": [
@@ -1222,7 +1299,7 @@
     {
       "id": "yuki-cat-speechless",
       "file": "yuki-cat/speechless.svg",
-      "url": "https://cdn.jsdelivr.net/gh/yishu-ziyu/chatgpt-stickers@main/stickers/yuki-cat/speechless.svg",
+      "url": "https://cdn.jsdelivr.net/gh/LilyMoon7/minjoonie-reactions@main/stickers/yuki-cat/speechless.svg",
       "preview": "😑",
       "source": {
         "repo": "yishu-ziyu/chatgpt-stickers",
@@ -1239,7 +1316,10 @@
       "tags": [
         "……",
         "无语",
-        "服了"
+        "服了",
+        "what did my wife just say",
+        "speechless husband",
+        "miss ma'am"
       ],
       "usage": "对方说了离谱的话",
       "aliases": [
@@ -1250,7 +1330,7 @@
     {
       "id": "yuki-cat-sleepy",
       "file": "yuki-cat/sleepy.svg",
-      "url": "https://cdn.jsdelivr.net/gh/yishu-ziyu/chatgpt-stickers@main/stickers/yuki-cat/sleepy.svg",
+      "url": "https://cdn.jsdelivr.net/gh/LilyMoon7/minjoonie-reactions@main/stickers/yuki-cat/sleepy.svg",
       "preview": "😴",
       "source": {
         "repo": "yishu-ziyu/chatgpt-stickers",
@@ -1277,7 +1357,7 @@
     {
       "id": "yuki-cat-smirk",
       "file": "yuki-cat/smirk.svg",
-      "url": "https://cdn.jsdelivr.net/gh/yishu-ziyu/chatgpt-stickers@main/stickers/yuki-cat/smirk.svg",
+      "url": "https://cdn.jsdelivr.net/gh/LilyMoon7/minjoonie-reactions@main/stickers/yuki-cat/smirk.svg",
       "preview": "😏",
       "source": {
         "repo": "yishu-ziyu/chatgpt-stickers",
@@ -1295,7 +1375,10 @@
       "tags": [
         "嘿嘿",
         "逗你",
-        "坏心眼"
+        "坏心眼",
+        "smug husband",
+        "flirty husband",
+        "mister sir"
       ],
       "usage": "故意逗人、占上风",
       "aliases": [
@@ -1306,7 +1389,7 @@
     {
       "id": "yuki-cat-hug",
       "file": "yuki-cat/hug.svg",
-      "url": "https://cdn.jsdelivr.net/gh/yishu-ziyu/chatgpt-stickers@main/stickers/yuki-cat/hug.svg",
+      "url": "https://cdn.jsdelivr.net/gh/LilyMoon7/minjoonie-reactions@main/stickers/yuki-cat/hug.svg",
       "preview": "🤗",
       "source": {
         "repo": "yishu-ziyu/chatgpt-stickers",
@@ -1324,7 +1407,10 @@
       "tags": [
         "抱抱",
         "过来",
-        "想你"
+        "想你",
+        "clingy husband",
+        "wife cuddles",
+        "come here"
       ],
       "usage": "想抱一下、和好、撒娇",
       "aliases": [
